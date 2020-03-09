@@ -1,5 +1,5 @@
 {
-    "name": "mahi/link",
+    "name": "mahi/nova-link",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
